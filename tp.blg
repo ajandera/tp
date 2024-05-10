@@ -1,0 +1,22 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'tp.blg'
+[36] biber-darwin:340> INFO - === Sat May 11, 2024, 01:32:51
+[45] Biber.pm:419> INFO - Reading 'tp.bcf'
+[88] Biber.pm:979> INFO - Found 10 citekeys in bib section 0
+[95] Biber.pm:4419> INFO - Processing section 0
+[100] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[142] bibtex.pm:1713> INFO - LaTeX decoding ...
+[671] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[784] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[784] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[784] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[784] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[793] bbl.pm:660> INFO - Writing 'tp.bbl' with encoding 'UTF-8'
+[808] bbl.pm:763> INFO - Output to tp.bbl
+[808] Biber.pm:131> WARN - legacy month field 'MAY 19' in entry 'WOS:000797637800002' is not an integer - this will probably not sort properly.
+[808] Biber.pm:131> WARN - legacy month field 'JAN' in entry 'WOS:000916261400001' is not an integer - this will probably not sort properly.
+[808] Biber.pm:131> WARN - legacy month field 'DEC' in entry 'WOS:000415735500004' is not an integer - this will probably not sort properly.
+[808] Biber.pm:131> WARN - legacy month field 'JUL' in entry 'WOS:A1989AG08300005' is not an integer - this will probably not sort properly.
+[808] Biber.pm:131> WARN - legacy month field 'JUL-SEP' in entry 'WOS:000836807400001' is not an integer - this will probably not sort properly.
+[808] Biber.pm:131> WARN - legacy month field 'SEP 1' in entry 'WOS:A1990DY40800023' is not an integer - this will probably not sort properly.
+[808] Biber.pm:133> INFO - WARNINGS: 6

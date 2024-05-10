@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {2}Methods}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Partial Derivation}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Volterra Series}{7}{}%
+\contentsline {subsection}{\numberline {2.3}Backporpagation}{9}{}%
+\contentsline {section}{\numberline {3}Processes with Memeory}{11}{}%
+\contentsline {subsection}{\numberline {3.1}Linear prediction}{12}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Short-term linear prediction}{12}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Parameters estimation}{13}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Long-term linear prediction}{15}{}%
+\contentsline {subsection}{\numberline {3.2}Reccurent Neural Network}{16}{}%
+\contentsline {subsection}{\numberline {3.3}Long short-term memory}{18}{}%
